@@ -8,3 +8,21 @@ https://github.com/sipeed/kflash_gui
 
 - ขั้นตอนการทำโดยละเอียดสามารถดูได้ที่ลิงค์นี้ (เฉพาะเดินอัตโนมัติ)
 https://www.youtube.com/watch?v=ZlzB1Bnp5cg
+
+![image](https://user-images.githubusercontent.com/93038026/166404442-20238047-4326-4ed3-885b-4f0e22609c7b.png)
+
+#Maixpy
+1.เมื่อตรวจจับเจอสิ่งของจะทำการส่ง logic = 1 ไปยังขา 18 
+2.เมื่อตรวจจับเจอสิ่งของจะทำการส่ง logic = 1 ไปยังขา 18 และทำการถ่ายรูปไว้ 
+3.ใช้สำหรับถ่ายรูปปกติ
+
+#Diagram
+![image](https://user-images.githubusercontent.com/93038026/166404559-aacb27f7-78f3-4c66-bbe0-b1c963b97292.png)
+
+#Kflash
+- ไฟล์เฟรชโมเดล YOLO 20 class และ ไฟล์เฟรชรอมบอร์ด Cogidude
+
+จัดทำโดย
+- Mr. Supakit Singkaew
+- Mr. Nontawat Matong
+- Mr. Siwat Chauycharoen
