@@ -20,7 +20,9 @@ https://www.youtube.com/watch?v=ZlzB1Bnp5cg
 - 2.เมื่อตรวจจับเจอสิ่งของจะทำการส่ง logic = 1 ไปยังขา 18 และทำการถ่ายรูปไว้ 
 - 3.ใช้สำหรับถ่ายรูปปกติ
 - 4.Yolo Detection Person
+
 ![image](https://user-images.githubusercontent.com/93038026/166405014-5e77cb59-d8dd-4cb2-921e-62f6782ce8e3.png)
+![image](https://user-images.githubusercontent.com/93038026/166405100-d5debe8b-a596-4fdd-b5aa-4bb6ca4eaa59.png)
 
 
 #Diagram
