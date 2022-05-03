@@ -23,7 +23,6 @@ https://www.youtube.com/watch?v=ZlzB1Bnp5cg
 - 4.Yolo Detection Person
 
 ![image](https://user-images.githubusercontent.com/93038026/166405014-5e77cb59-d8dd-4cb2-921e-62f6782ce8e3.png)
-![image](https://user-images.githubusercontent.com/93038026/166405100-d5debe8b-a596-4fdd-b5aa-4bb6ca4eaa59.png)
 ![image](https://user-images.githubusercontent.com/93038026/166405129-1272e1cf-dbda-4d15-984e-9d9a24b6b76b.png)
 
 
