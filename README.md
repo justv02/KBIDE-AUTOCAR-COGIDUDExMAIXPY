@@ -4,6 +4,7 @@
 https://colab.research.google.com/drive/1IQ5Ywn9TI0dDZHtpnu5tgU98N7NWTFT6?usp=sharing#scrollTo=5KUUHhn8F6Ed
 
 - ตัวรถจะสามารถเลี้ยวได้นั้นจำเป็นต้องมีกรวยเพื่อเป็นตัวช่วยในการเลี้ยว เนื่องจาก Ai ที่เทรนนั้นจะ Detec หากรวยจากกล้องเพื่อจะให้ตัวรถนั้นคำนวณการเลี้ยวซ้ายหรือขวา
+
 ![image](https://user-images.githubusercontent.com/93038026/166404934-898b2a20-e23e-42dd-b980-673b33dec70d.png)
 
 
