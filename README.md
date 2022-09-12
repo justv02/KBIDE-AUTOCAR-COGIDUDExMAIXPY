@@ -36,3 +36,6 @@ https://www.youtube.com/watch?v=ZlzB1Bnp5cg
 - Mr. Supakit Singkaew
 - Mr. Nontawat Matong
 - Mr. Siwat Chauycharoen
+
+อาจารย์ที่ปรึกษา
+- ผศ.ดร.ขวัญชัย เอื้อวิริยานุกูล
